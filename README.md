@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noaprost
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning React
-- 📫 How to reach me ...
+- 📫 I aim to be a software architect
 
 <!---
 noaprost/noaprost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
