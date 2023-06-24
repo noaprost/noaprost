@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noaprost
-- 👀 I’m interested in frontend
+- 👀 I’m interested in frontend, Moreover fullstack too :)
 - 🌱 I’m currently learning React
 - 📫 I aim to be a software architect
 
