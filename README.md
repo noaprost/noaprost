@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noaprost
 - 👀 I’m interested in frontend :)
-- 🌱 I’m currently learning React, Algorithm
+- 🌱 I’m currently learning React, Algorithm, TypeScript, Next.js
 - 📫 I aim to be a software architect
 
 <!---
