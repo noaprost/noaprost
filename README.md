@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noaprost
-- 👀 I’m interested in frontend :)
+- 👀 I’m interested in front-end developer :)
 - 🌱 I’m currently learning React, Algorithm, TypeScript, Next.js
 - 📫 I aim to be a software architect
 
