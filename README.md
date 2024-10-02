@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @noaprost
 - 👀 I’m interested in Front-end developer :)
-- 🌱 I’m currently learning React, TypeScript, Next.js, Algorithm
-- 📫 I aim to be a developer who makes products that are helpful to people.
+- 🌱 I’m currently learning React, TypeScript, Next.js, Three.js, Algorithm
