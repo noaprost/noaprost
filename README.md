@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @noaprost
-- 👀 I’m interested in Front-end developer :)
+- 👀 I want to be a Front-end developer who grows constantly. :)
